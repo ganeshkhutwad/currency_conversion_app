@@ -2,7 +2,7 @@
 
 ### To Run Application
 
-* Extract “currency_conversion_app” or clone https://github.com/ganeshkhutwad/currency_conversion_app.git repository.
+* Clone https://github.com/ganeshkhutwad/currency_conversion_app.git repository.
 * Execute following commands
 <pre><code>cd currency_conversion_app`
 npm install
