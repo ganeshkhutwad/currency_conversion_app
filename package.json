@@ -25,6 +25,7 @@
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
+        "test_coverage": "npm test -- --coverage",
         "eject": "react-scripts eject",
         "cypress": "cypress open",
         "cypress_record": "npx cypress run --record --key d60a589f-8305-4e4e-a3ae-89f4166cab93"
