@@ -1,0 +1,17 @@
+form .CurrencyList {
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    background-color: #545b62;
+    color: #fff;
+    border-color: #4e555b;
+    cursor: pointer;
+}
+
+.ErrorMessage {
+    color: red;
+}
+
+.Container {
+    width: 50%;
+    margin: 0 auto;
+}
